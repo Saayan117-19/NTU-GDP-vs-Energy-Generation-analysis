@@ -1,0 +1,2 @@
+Model,Train R2,Test R2,Test MSE
+Linear Regression,0.0,-0.001,1.740145517344369e+25

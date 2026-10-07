@@ -1,0 +1,4 @@
+Model,Target,Accuracy,Precision,Recall,F1,R2,MSE
+Logistic Regression,Power,0.8209,1.0,0.5862,0.7391,,
+Decision Tree,Power,0.8507,1.0,0.6552,0.7917,,
+Linear Regression,GDP (regression),,,,,0.9501,7.401270168793912e+23
